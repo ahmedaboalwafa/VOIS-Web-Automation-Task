@@ -11,6 +11,7 @@
 *	Using Page Object Model as a Design Pattern 
 
 ## Note
+* when open the URL page return "Account suspended" and when search for it in google the url appear put replace ".pl" instead of ".com" to become "http://automationpractice.pl"
 * please change the email from property file used in registration
 
 ## Classes 
